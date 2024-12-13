@@ -6,7 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://media.discordapp.net/attachments/1314954777116938250/1315345366828322917/image.png?ex=675d0115&amp;is=675baf95&amp;hm=1b9c09831cb9d7ea0717e6ba80adafec41d2deaefdfcf6f355244cf00acba5fa&amp;=&amp;format=webp&amp;quality=lossless&amp;width=990&amp;height=619" alt="project-screenshot" width="400" height="400/">
+<img src="https://media.discordapp.net/attachments/1314954777116938250/1315345366828322917/image.png?ex=675d0115&amp;is=675baf95&amp;hm=1b9c09831cb9d7ea0717e6ba80adafec41d2deaefdfcf6f355244cf00acba5fa&amp;=&amp;format=webp&amp;quality=lossless&amp;width=990&amp;height=619" alt="project-screenshot" width="500" height="700/">
 
   
   
