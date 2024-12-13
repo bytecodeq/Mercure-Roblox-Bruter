@@ -1,5 +1,5 @@
 """
-MADE BY STRIX
+Made by github.com/evilstrix
 """
 
 import logging
