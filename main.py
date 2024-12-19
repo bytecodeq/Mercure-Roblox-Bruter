@@ -1,5 +1,5 @@
 """
-Made by github.com/evilstrix
+Made by github.com/bytecodeq
 """
 
 import logging
@@ -17,9 +17,9 @@ import time
 from typing import Dict, Any, Union, List
 
 tool_name = "Roblox Bruter"
-author = "Strix"
+author = "bytecode"
 bar = "┃"
-github = "github.com/evilstrix"
+github = "github.com/bytecodeq"
 
 LBL = "\x1b[38;5;27m"
 sep = f"{Fore.LIGHTBLACK_EX} ● {Fore.LIGHTWHITE_EX}"
